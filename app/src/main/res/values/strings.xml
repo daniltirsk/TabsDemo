@@ -2,9 +2,22 @@
     <string name="app_name">TabsDemo</string>
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
+    <string name="API_KEY">d6843ab8ee963f5d372296dfff62aed7</string>
+    <string name="city_prompt">Enter the name of the city</string>
+    <string name="add">ADD</string>
+    <string name="temperature">Temperature: %s</string>
+    <string name="type">Type: %s</string>
+    <string name="wind_speed">Wind Speed:</string>
+    <string name="wind_direction_deg">Wind direction (deg): %s</string>
+    <string name="weather_clear">Clear</string>
+    <string name="weather_clouds">Clouds</string>
+    <string name="weather_rain">Rain</string>
+    <string name="weather_snow">Snow</string>
+    <string name="display_type">Choose display type</string>
     <string-array name="cities">
         <item>Иркутск</item>
         <item>Москва</item>
         <item>Воронеж</item>
+        <item>Токио</item>
     </string-array>
 </resources>
